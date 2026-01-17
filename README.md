@@ -1,8 +1,8 @@
 Updating Sales Data Project
 
 Project Overview-
-This project focuses on "updating, cleaning, and maintaining sales data" efficiently.  
-It demonstrates how raw sales data can be processed, updated, and organized for analysis and reporting.
+-This project focuses on "updating, cleaning, and maintaining sales data" efficiently.  
+-It demonstrates how raw sales data can be processed, updated, and organized for analysis and reporting.
 
 Objectives-
 - Update existing sales records with new entries
